@@ -26,8 +26,9 @@ function Home() {
           src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
           alt=""
         />
-        <center><h1>Test</h1></center>
-        
+        <div className="home__inputContainer">
+          
+        </div>
       </div>
     </div>
   )

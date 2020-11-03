@@ -15,7 +15,7 @@ function Search() {
 
       <div className="search__buttons">
         <Button>Google Search</Button>
-        <Button variant="outlined">I'm Feeling Lucky</Button>
+        <Button variant="outlined">I 'm Feeling Lucky</Button>
 
       </div>
     </div>

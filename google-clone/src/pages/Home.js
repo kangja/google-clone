@@ -1,10 +1,9 @@
-// rfce
 import React from "react";
 import "./Home.css";
 import { Link } from "react-router-dom";
 import AppsIcon from "@material-ui/icons/Apps";
 import { Avatar } from "@material-ui/core"
-import Search from "./Search"
+import Search from "../Search"
 
 function Home() {
   return (
